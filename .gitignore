@@ -1,5 +1,5 @@
 # Ignore Jupyter notebook checkpoints
-./pyspark_jupiter/pyspark_jupiter/.ipynb_checkpoints
+./pyspark_jupiter/.ipynb_checkpoints
 
 # Ignore data directory
-./pyspark_jupiter/pyspark_jupiter/data/
+./pyspark_jupiter/data/
